@@ -16,6 +16,7 @@ public class ConflictsTest {
      */
     public static void main(String[] args) {
         System.out.println("Heloooooooooooo!!!");
+        System.out.println("Konichiwa :)");
     }
     
 }
